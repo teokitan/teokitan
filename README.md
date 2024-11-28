@@ -14,16 +14,16 @@ Welcome to a corner of GitHub. It’s cozy, efficient, and has just the right am
 ## Who Thinks I Know What I’m Doing?
 
 - **United Nations**
-    - eBionyx was the winner of the Generation Unlimited Global Challenge, and won a lot of money for it.
+    - eBionyx was the [winner](https://www.generationunlimited.org/stories/teenagers-develop-3d-printed-bionic-arm-30-times-cheaper-existing-prosthetics) of the Generation Unlimited Global Challenge, and won a lot of money for it.
 - **NASA**
-    - My team, ATOM-Z, was a global award winner at the Space Apps Challenge.
+    - My team, ATOM-Z, was a global award [winner](https://2020.spaceappschallenge.org/challenges/create/virtual-planetary-exploration/teams/atom-z-1/project) at the Space Apps Challenge.
 - **Microsoft**
-    - Gave me a 3rd prize award at the Accelerate Your AI hackathon for TrustMeBro.
+    - Gave me a 3rd prize award at the Accelerate Your AI hackathon for [TrustMeBro](https://github.com/teokitan/trust-me-bro).
 - **The International Olympiad in Informatics**
-    - The bronze medal came in 2022.
+    - The [bronze medal](https://stats.ioinformatics.org/results/2022) came in 2022.
 - **The Computer Society of Macedonia**
-    - I was the absolute winner of the National Olympiad, and even got a teddy bear as a prize.
-    - I was on the scientific committee of the Balkan Olympiad in Informatics.
+    - I was the absolute [winner](https://mendo.mk/User_CompetitionResults.do?id=414) of the National Olympiad, and even got a teddy bear as a prize.
+    - I was on the [scientific committee](https://boi2024.cs.org.mk/content/organizing-committee) of the Balkan Olympiad in Informatics.
 - **Vanderbilt University**
     - Against all odds, accepted me - and gave me the Wilbert E Chope Memorial Scholarship.
     - Asked me to be a Data Analyst to figure out the mess that is faculty and student data.
