@@ -18,7 +18,7 @@ Welcome to a corner of GitHub. It’s cozy, efficient, and has just the right am
 - **NASA**
     - My team, ATOM-Z, was a global award winner at the Space Apps Challenge.
 - **Microsoft**
-    - They gave me a 3rd prize award at the Accelerate Your AI hackathon for TrustMeBro.
+    - Gave me a 3rd prize award at the Accelerate Your AI hackathon for TrustMeBro.
 - **The International Olympiad in Informatics**
     - The bronze medal came in 2022.
 - **The Computer Society of Macedonia**
