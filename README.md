@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?width=600&duration=2000&pause=1000&lines=Teo+Kitanovski+-+IOI+Medalist;Teo+Kitanovski+-+Co-Founder+of+eBionyx;Teo+Kitanovski+-+Computer+Science+@+Vanderbilt)](https://git.io/typing-svg)
 
-## cOdE wIzArD by Day, Problem Solver by Night
-
-Welcome to a corner of GitHub. It’s cozy, efficient, and has just the right amount of self-satisfaction. If you’ve stumbled here, you probably want to know what makes me *tick* (= clean code, scalable architectures, and the joy of solving "impossible" problems).
+welcome.
 
 ## Some of What I Do (And Do Well)
 
